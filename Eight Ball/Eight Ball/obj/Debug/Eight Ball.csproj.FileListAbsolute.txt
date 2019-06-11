@@ -1,0 +1,10 @@
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\bin\Debug\Eight Ball.exe.config
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\bin\Debug\Eight Ball.exe
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\bin\Debug\Eight Ball.pdb
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\obj\Debug\Eight Ball.csprojAssemblyReference.cache
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\obj\Debug\Eight_Ball.Form1.resources
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\obj\Debug\Eight_Ball.Properties.Resources.resources
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\obj\Debug\Eight Ball.csproj.GenerateResource.cache
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\obj\Debug\Eight Ball.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\obj\Debug\Eight Ball.exe
+C:\Users\Simon\Documents\C# Practice\Eight Ball\Eight Ball\obj\Debug\Eight Ball.pdb
